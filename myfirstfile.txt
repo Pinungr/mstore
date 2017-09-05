@@ -1,2 +1,3 @@
 This file has only one line at this time
+This is my third line in between
 Now we are adding second line
