@@ -1,1 +1,2 @@
 This file has only one line at this time
+Now we are adding second line
