@@ -1,0 +1,7 @@
+*.back
+*.php
+!index.php
+*.class
+*.log
+*.mp4
+*.mp3
